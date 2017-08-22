@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "416644619842",
+    "firebase_url": "https://comp314-8f7e2.firebaseio.com",
+    "project_id": "comp314-8f7e2",
+    "storage_bucket": "comp314-8f7e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416644619842:android:ba4c23e1405e2b9d",
+        "android_client_info": {
+          "package_name": "com.example.dpg.warehouseuxtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416644619842-fmod0em1gqhb92q4tpctd9hvvujm3dp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwXCGb7yo1PJXWZghEukfhwX7vLG2ijU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
